@@ -28,7 +28,7 @@
           .row.align-items-center.m-1
             .col-lg-5.mb-4.mb-lg-0
               h4 Medios
-              p Dependiendo del tipo del lugar en donde se presta el servicio, también es necesario tener en cuenta por cuál medio se realizará la interpretación; si será en el mismo lugar del evento y si desde allí se transmitirá por videobeam; si se transmitirá por televisión; sí se usará alguna plataforma tecnológica de interpretación a distancia vía streaming o sí se utilizará algún sistema de videollamada o videoconferencia. Todo esto le permitirá al intérprete hacerse una clara idea de cómo prestar un servicio óptimo.
+              p Dependiendo del tipo del lugar en donde se presta el servicio, también es necesario tener en cuenta por cuál medio se realizará la interpretación; si será en el mismo lugar del evento y si desde allí se transmitirá por #[em videobeam]; si se transmitirá por televisión; sí se usará alguna plataforma tecnológica de interpretación a distancia vía #[em streaming] o sí se utilizará algún sistema de videollamada o videoconferencia. Todo esto le permitirá al intérprete hacerse una clara idea de cómo prestar un servicio óptimo.
             .col-lg-7
               figure
                 img(src='@/assets/curso/tema2/img2.png', style="width:625px").m-auto

@@ -57,7 +57,7 @@
         p(data-aos="fade-up") Así, el vocabulario se amplía aún más cuando se definen áreas específicas en el discurso. El vocabulario se enriquece en una mezcla de vocablos comunes y técnicos por áreas, como el científico, el legal o el periodístico.
 
         .cajon.color-primario.p-4.mb-4(data-aos="zoom-in")
-          p.mb-0 El vocabulario técnico son las palabras clasificadas objetivamente y, en muchas ocasiones, son de significado unívocas, es decir que su designación y significación no pueden ser interpretables de otra manera.
+          p.mb-0 Las diferencias del vocabulario según las áreas o materias exigen amplios conocimientos del sector o actividad en el que se mueven los exponentes, por lo que algunos intérpretes y traductores se especializan en un área determinada para tener mejor control del vocabulario y, por ende, del tema.
 
         p.txt-c2(data-aos="fade-left") Ser multifacético en un mundo dividido por sectores y oficios hace que el ejercicio de traducir e interpretar, en algunas situaciones, se vuelva una necesidad más que una decisión propia; aunque para muchos expertos no es lo más indicado dado la infinidad de términos que existen por áreas o materias.
 
@@ -93,10 +93,10 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img4.svg', style="width:400px").m-auto
-      .py-4.py-md-5(titulo="Técnica couplet (doblete)" :icono="require('@/assets/curso/tema1/tab3.svg')")
+      .py-4.py-md-5(titulo="Técnica <em>couplet</em> (doblete)" :icono="require('@/assets/curso/tema1/tab3.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
-            h4 Técnica couplet (doblete)
+            h4 Técnica <em>couplet</em> (doblete)
             p Consiste en la transcripción del nombre original, pero agregando una traducción o interpretación propia, o algún otro nombre más familiar para el receptor. Este tipo de adaptaciones o naturalizaciones para los nombres propios a la lengua metas cambiadas por un epónimo, se traducen cuando en la cultura meta no se conocen.
           .col-lg-4
             figure
@@ -198,13 +198,22 @@
                 img(src='@/assets/curso/tema1/img14.svg', style="width:228px").m-auto
           .row(titulo="Fuentes de información")
             .col-lg-7
-              p.mb-0 También llamada sumativa este tipo de evaluación mide los resultados alcanzados, los conocimientos y el progreso a nivel global, evidencia los avances y comprueba necesidades, su objetivo principal es la valoración, se realiza por medio de autoevaluación, entrevistas, pruebas y observación.
+              p.mb-3 Seleccionar, organizar y desechar a partir del paso anterior las fuentes documentales que aporten al objetivo planteado.
+
+              .d-flex.align-items-start.mb-2
+                img.me-3(src="@/assets/curso/tema1/icon_hand.svg" style="max-width: 12px")
+                span #[b Fuentes documentales primarias:] es toda la información original o nueva, es decir, un trabajo intelectual propio que no ha sido evaluado por nadie ni interpretado o filtrado.
+
+              .d-flex.align-items-start.mb-2
+                img.me-3(src="@/assets/curso/tema1/icon_hand.svg" style="max-width: 12px")
+                span #[b Fuentes documentales secundarias:] se basa en la información primaria, donde la extraen, organizan y analizan. Utiliza la documentación primaria como referencia para controlarla y facilitar el acceso a esta.
+
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema1/img15.svg', style="width:249px").m-auto
           .row(titulo="Documentar")
             .col-lg-7
-              p.mb-0 También llamada sumativa este tipo de evaluación mide los resultados alcanzados, los conocimientos y el progreso a nivel global, evidencia los avances y comprueba necesidades, su objetivo principal es la valoración, se realiza por medio de autoevaluación, entrevistas, pruebas y observación.
+              p.mb-0 Habiendo seleccionado la información se puede empezar a documentar, escribir, desarrollar y sustentar el tema sobre el cual se realizó la búsqueda, para darla a conocer al receptor, en este caso la persona que recibe el servicio de interpretación.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema1/img16.svg', style="width:203px").m-auto
