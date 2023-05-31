@@ -8,7 +8,7 @@
       h1 Vocabulario técnico, documentación y bases de datos
 
 
-    p(data-aos="fade-right").mb-4 La palabra vocabulario, viene del latín vocabŭlum, que significa vocabulario o, dicho de otro modo, las palabras o el lecto que conforma una lengua utilizada por una persona o grupos de personas. Así, se puede decir que léxico es un sinónimo de vocabulario, por ser un conjunto de unidades léxicas que conforman la lengua.
+    p(data-aos="fade-right").mb-4 La palabra vocabulario, viene del latín #[em vocabŭlum], que significa vocabulario o, dicho de otro modo, las palabras o el lecto que conforma una lengua utilizada por una persona o grupos de personas. Así, se puede decir que léxico es un sinónimo de vocabulario, por ser un conjunto de unidades léxicas que conforman la lengua.
 
     .row.mb-5.align-items-center
       .col-lg-7.mb-4.mb-lg-0
@@ -41,9 +41,8 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/GpJYPd540ig" title="Vocabulario técnico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Vocabulario técnico.
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Vocabulario por áreas
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Vocabulario por áreas
 
     .row.mb-4.align-items-center
       .col-auto(data-aos="fade-right")
@@ -68,9 +67,8 @@
 
     p.mb-5(data-aos="fade-left") Este tipo de vocabulario se da más que todo en los intérpretes que trabajan en colegios, instituciones o universidades, donde se evidencian claramente las materias o áreas que se imparten. Aquí el intérprete se ve obligado, en casos como estos, a prestar el servicio, pero sin la previa documentación de la terminología del discurso, lo que puede dar origen a situaciones adversas.
 
-    .row.mb-4
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Vocabulario de nombres propios
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Vocabulario de nombres propios
 
     p.mb-4(data-aos="fade-right") Algunos teóricos definen los nombres propios como los que designan un objeto o son simplemente denotativos, pero carecen de significado; al contrario, otros reiteran que los nombres propios son completamente connotativos o, en otras palabras, llenos de significado y características propias.
 
@@ -218,9 +216,9 @@
               figure
                 img(src='@/assets/curso/tema1/img16.svg', style="width:203px").m-auto
 
-    #t_1_3
-    .titulo-segundo.color-secundario
-      h2(data-aos="fade-right") 1.3  Materiales y contenidos para el servicio de interpretación
+
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Materiales y contenidos para el servicio de interpretación
 
     p Como parte de la organización previa en un servicio de interpretación, es necesario contar con anticipación con los contenidos de los ponentes, sean sordos u oyentes, pero también es necesario tener algunos materiales a disposición para una interpretación con contenidos en lengua de señas colombiana y español.
 
@@ -239,7 +237,7 @@
                   figure
                     img(src="@/assets/curso/tema1/conectada_01.svg", alt="alt").img112
                 .col
-                  p.my-0 La interpretación exclusivamente oral necesita equipos técnicos como fijas, cámaras insonoras, ventilación, transmisiones con varios canales, micrófonos, receptores, auriculares, unidades de control de audio, amplificadores y técnicos de montaje.
+                  p.my-0 La interpretación exclusivamente oral necesita equipos técnicos como cabinas fijas, cámaras insonoras, ventilación, transmisiones con varios canales, micrófonos, receptores, auriculares, unidades de control de audio, amplificadores y técnicos de montaje.
             .crd.crd--avatarHorizontal.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
@@ -253,7 +251,7 @@
                   figure
                     img(src="@/assets/curso/tema1/conectada_03.svg", alt="alt").img112
                 .col
-                  p.my-0 También están los equipos de video, pantallas o monitores, cámaras de video con sus respectivos camarógrafos, fondos de tonalidades neutras, croma sillas altas para el interprete (si son necesarias) e iluminación profesional para ciertos eventos. El interprete debe conocer de antemano todos los materiales, equipos y contenidos, además de realizar una practica a modo de ensayo, para conocer su ubicación y rotación durante el evento.
+                  p.my-0 También están los equipos de video, pantallas o monitores, cámaras de video con sus respectivos camarógrafos, fondos de tonalidades neutras, croma sillas altas para el interprete (si son necesarias) e iluminación profesional para ciertos eventos. El interprete debe conocer de antemano todos los materiales, equipos y contenidos, además de realizar una practica previa a modo de ensayo, para conocer su ubicación y rotación durante el evento.
 
 
 </template>

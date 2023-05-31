@@ -69,6 +69,13 @@ export default {
         numero: '3',
         titulo: 'Salud ocupacional ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Enfermedades profesionales',
+            hash: 't_3_1',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -197,7 +204,7 @@ export default {
     {
       termino: '<em>Pidgin</em>',
       significado:
-        '“Lengua mixta creada sobre la base de una lengua determinada y con la aportación de numerosos elementos de otra u otras,que usan especialmente en enclaves comerciales hablantes de diferentes idiomas para relacionarse entre sí”. Diccionario de la Real Academia Española (RAE).',
+        '“Lengua mixta creada sobre la base de una lengua determinada y con la aportación de numerosos elementos de otra u otras, que usan especialmente en enclaves comerciales hablantes de diferentes idiomas para relacionarse entre sí”. Diccionario de la Real Academia Española (RAE).',
     },
     {
       termino: 'Polisemia',

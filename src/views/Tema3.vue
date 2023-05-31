@@ -58,9 +58,9 @@
         figure
           img(src='@/assets/curso/tema3/img5.png').m-auto
 
-    .row.mb-4.align-items-center
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Enfermedades profesionales
+    #t_1_2
+    .titulo-segundo.color-secundario
+      h2(data-aos="fade-right") 3.1 Enfermedades profesionales
 
     p.mb-4 Según la Ley 1562 de 2012 es aquella contraída como resultado de la exposición a factores de riesgo inherentes a la actividad laboral o del medio en el que el trabajador se ha visto obligado a trabajar. El Gobierno nacional determinará, en forma periódica, las enfermedades que se consideran como laborales y en los casos en que una enfermedad no figure en la tabla de enfermedades laborales (Decreto 1444 de 2014), pero se demuestre la relación de causalidad con los factores de riesgo ocupacionales, se reconocerá como enfermedad laboral, conforme lo establecido en las normas legales vigentes (artículo 4°).
 
@@ -92,7 +92,7 @@
         .row.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
             h4 Riesgo psicosocial
-            p El Insor considera que el proceso de interpretación implica un proceso de recepción, procesamiento y transmisión de la información, proceso que exige capacidades como la discriminación auditiva vocal, la comprensión rápida de los mensajes, el conocimiento gramatical y lexical, capacidad para asimilar el mensaje en poco tiempo y capacidades de adaptación con el orador, todo para articular las ideas de las oraciones para dar un mensaje lógico y ordenado. Exige un nivel de atención y memoria, y la adquisición de aprendizaje nuevo y constante, además del manejo del estrés laboral ocasionado por las actividades y funciones de interpretación el cual puede ocasionar dolores de cabeza, tensión muscular o diferentes alteraciones en el sistema nerviosos central de manera transitoria como fotofobia, parestesias o tics nerviosos, así mismo, otro tipo de manifestaciones como nerviosismo, ansiedad o actitudes de incomodidad.
+            p El Insor considera que el proceso de interpretación implica un proceso de recepción, procesamiento y transmisión de la información, proceso que exige capacidades como la discriminación auditiva vocal, la comprensión rápida de los mensajes, el conocimiento gramatical y lexical, capacidad para asimilar el mensaje en poco tiempo y capacidades de adaptación con el orador, todo para articular las ideas de las oraciones para dar un mensaje lógico y ordenado. Exige un nivel de atención y memoria, y la adquisición de aprendizaje nuevo y constante, además del manejo del estrés laboral ocasionado por las actividades y funciones de interpretación el cual puede ocasionar dolores de cabeza, tensión muscular o diferentes alteraciones en el sistema nervioso central de manera transitoria como fotofobia, parestesias o tics nerviosos, así mismo, otro tipo de manifestaciones como nerviosismo, ansiedad o actitudes de incomodidad.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema3/img8.png', style="max-width:467px").m-auto
@@ -113,9 +113,9 @@
             figure
               img(src='@/assets/curso/tema3/img10.png', style="max-width:467px").m-auto
 
-    .row.mb-4.align-items-center
-      .col-auto.bg-c5
-        h4.mb-0.py-2.px-5(data-aos="fade-up") Métodos profilácticos de prevención y respiración
+
+    .bg-c5.mb-4
+      span.h4(data-aos="fade-up") Métodos profilácticos de prevención y respiración
 
     p.mb-5 Los métodos profilácticos hacen referencia a las estrategias generadas en el marco de prevención de la enfermedad desde diferentes niveles que van desde la promoción de la salud, el tratamiento de la enfermedad y la recuperación de la salud. En la interpretación y traducción en Lengua de Señas Colombiana – español, es importante generar medidas como:
 
@@ -130,11 +130,11 @@
 
               .tarjeta.color-acento-botones.p-3(x="23%" y="56.5%" numero="+")
                 .h5.mb-2 Escenarios adecuados
-                p Solicitar espacios adecuados en los que, previo al servicio, se revise la iluminación, los ruidos externos, la temperatura del aire, la adecuada ubicación del intérprete entre otros. Si lo anterior no está debidamente dispuesto, genera mayor desgaste en la interpretación.
+                p Solicitar espacios adecuados en los que, previo al servicio, se revise la iluminación, los ruidos externos, la temperatura del aire, la adecuada ubicación del intérprete, entre otros. Si lo anterior no está debidamente dispuesto, genera mayor desgaste en la interpretación.
 
               .tarjeta.color-acento-botones.p-3(x="25.5%" y="78%" numero="+")
                 .h5.mb-2 Autocuidado
-                p Realizando pausas activas masajes y ejercicios de estiramiento en los discursos extensos.
+                p Realizando pausas activas, masajes y ejercicios de estiramiento en los discursos extensos.
 
               .tarjeta.color-acento-botones.p-3(x="97.5%" y="56.5%" numero="+")
                 .h5.mb-2 Funciones
