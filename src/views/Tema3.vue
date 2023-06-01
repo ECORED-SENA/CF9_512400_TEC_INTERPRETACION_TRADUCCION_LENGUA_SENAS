@@ -114,8 +114,14 @@
               img(src='@/assets/curso/tema3/img10.png', style="max-width:467px").m-auto
 
 
-    .bg-c5.mb-4
-      span.h4(data-aos="fade-up") Métodos profilácticos de prevención y respiración
+    .row.justify-content-start.mb-4      
+      .col-auto.bg9-1.p-0(data-aos="flip-down")
+        .list.mb-1
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/v2.svg', alt='')
+          .list__txt
+            h4.mb-0 Métodos profilácticos de prevención y respiración
 
     p.mb-5 Los métodos profilácticos hacen referencia a las estrategias generadas en el marco de prevención de la enfermedad desde diferentes niveles que van desde la promoción de la salud, el tratamiento de la enfermedad y la recuperación de la salud. En la interpretación y traducción en Lengua de Señas Colombiana – español, es importante generar medidas como:
 

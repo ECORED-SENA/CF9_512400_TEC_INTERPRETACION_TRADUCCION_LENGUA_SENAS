@@ -237,21 +237,21 @@
                   figure
                     img(src="@/assets/curso/tema1/conectada_01.svg", alt="alt").img112
                 .col
-                  p.my-0 La interpretación exclusivamente oral necesita equipos técnicos como cabinas fijas, cámaras insonoras, ventilación, transmisiones con varios canales, micrófonos, receptores, auriculares, unidades de control de audio, amplificadores y técnicos de montaje.
+                  p.my-0.pe-5 La interpretación exclusivamente oral necesita equipos técnicos como cabinas fijas, cámaras insonoras, ventilación, transmisiones con varios canales, micrófonos, receptores, auriculares, unidades de control de audio, amplificadores y técnicos de montaje.
             .crd.crd--avatarHorizontal.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img(src="@/assets/curso/tema1/conectada_02.svg", alt="alt").img112
                 .col
-                  p.my-0 La interpretación que involucra la lengua de señas colombiana requiere de otros posibles elementos que varían según los usuarios de la lengua de señas, el ámbito, los temas, el lugar, la cantidad de personas que asisten al evento, entre otros.
+                  p.my-0.pe-5 La interpretación que involucra la lengua de señas colombiana requiere de otros posibles elementos que varían según los usuarios de la lengua de señas, el ámbito, los temas, el lugar, la cantidad de personas que asisten al evento, entre otros.
             .crd.crd--avatarHorizontal.crd--last.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img(src="@/assets/curso/tema1/conectada_03.svg", alt="alt").img112
                 .col
-                  p.my-0 También están los equipos de video, pantallas o monitores, cámaras de video con sus respectivos camarógrafos, fondos de tonalidades neutras, croma sillas altas para el interprete (si son necesarias) e iluminación profesional para ciertos eventos. El interprete debe conocer de antemano todos los materiales, equipos y contenidos, además de realizar una practica previa a modo de ensayo, para conocer su ubicación y rotación durante el evento.
+                  p.my-0.pe-5 También están los equipos de video, pantallas o monitores, cámaras de video con sus respectivos camarógrafos, fondos de tonalidades neutras, croma sillas altas para el interprete (si son necesarias) e iluminación profesional para ciertos eventos. El interprete debe conocer de antemano todos los materiales, equipos y contenidos, además de realizar una practica previa a modo de ensayo, para conocer su ubicación y rotación durante el evento.
 
 
 </template>
