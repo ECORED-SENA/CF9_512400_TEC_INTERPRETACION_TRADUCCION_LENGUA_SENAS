@@ -58,7 +58,7 @@
         figure
           img(src='@/assets/curso/tema3/img5.png').m-auto
 
-    #t_1_2
+    #t_3_1
     .titulo-segundo.color-secundario
       h2(data-aos="fade-right") 3.1 Enfermedades profesionales
 
@@ -114,7 +114,7 @@
               img(src='@/assets/curso/tema3/img10.png', style="max-width:467px").m-auto
 
 
-    .row.justify-content-start.mb-4      
+    .row.justify-content-start.mb-4
       .col-auto.bg9-1.p-0(data-aos="flip-down")
         .list.mb-1
           .list__item
