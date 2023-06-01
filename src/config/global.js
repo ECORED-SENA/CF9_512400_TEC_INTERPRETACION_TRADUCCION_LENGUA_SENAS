@@ -113,7 +113,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
@@ -266,12 +266,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Líder del ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -283,34 +283,34 @@ export default {
         {
           nombre: 'Jhacesiz Mary Hincapié Atehortúa',
           cargo: 'Instructora',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia.',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Manuel Alejandro Garzón',
           cargo: 'Instructor',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia.',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'German Albeiro Saldarriga ',
-          cargo: 'Instructora',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia.',
+          cargo: 'Instructor',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Adriana María Bustamante',
           cargo: 'Profesional Diseño Curricular',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia.',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nidian Yarume Ortiz Buitrago',
-          cargo: 'Experta temática',
+          cargo: 'Experta Temática',
           centro:
-            'Centro de Formación en Talento Humano y Salud - Regional Distrito Capital.',
+            'Centro de Formación en Talento Humano y Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Jeimy Lorena Romero Perilla',
           cargo: 'Diseñador Instruccional',
           centro:
-            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander.',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus ',
@@ -319,7 +319,7 @@ export default {
         },
         {
           nombre: 'José Gabriel Ortiz Abella ',
-          cargo: 'Corrector de estilo ',
+          cargo: 'Corrector de Estilo ',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
@@ -329,7 +329,7 @@ export default {
       autores: [
         {
           nombre: 'Yerson Fabian Zarate Saavedra',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -341,19 +341,19 @@ export default {
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Storyboard e ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y Productor Multimedia',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Actividad didáctica',
+          cargo: 'Actividad Didáctica',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -376,7 +376,7 @@ export default {
         },
         {
           nombre: 'Daniel Ricardo Mutis',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
